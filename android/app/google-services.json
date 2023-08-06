@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "344224786415",
+    "project_id": "aula2-78a49",
+    "storage_bucket": "aula2-78a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344224786415:android:469d2cff498300b506381a",
+        "android_client_info": {
+          "package_name": "com.mycompany.aula02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344224786415-d8t0grvb48obmailfbtn35kr2113v86d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCucaGKCMYyiPPFZmfGok2yElZBrzCDTGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344224786415-d8t0grvb48obmailfbtn35kr2113v86d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344224786415-jk4sj61u29ne0gmnfus5gn37r8m9mkkh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.aula02"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
